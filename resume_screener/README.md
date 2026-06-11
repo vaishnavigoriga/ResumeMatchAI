@@ -19,7 +19,7 @@ An ML-powered recruitment assistant that analyzes resumes, predicts candidate-jo
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/gorigavaishnavi29/resume-screener.git
+git clone https://github.com/vaishnavigoriga/ResumeMatchAI.git
 cd resume-screener
 
 # 2. Install dependencies
