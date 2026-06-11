@@ -13,7 +13,7 @@ Python · Scikit-learn · Pandas · NumPy · NLP · Streamlit · Plotly · Matpl
 
 Setup & Run
 # 1. Clone the repo
-git clone https://github.com/gorigavaishnavi29/ResumeMatchAI.git
+git clone https://github.com/vaishnavigoriga/ResumeMatchAI.git
 cd resume-screener
 
 # 2. Install dependencies
